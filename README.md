@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antar Mukhopadhyaya</h1>
 <h3 align="center">A passionate full-stack developer who loves learning new things.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" >
+<img  alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antarmukhopadhyaya&label=Profile%20views&color=0e75b6&style=flat" alt="antarmukhopadhyaya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antarmukhopadhyaya" alt="antarmukhopadhyaya" /></a> </p>
