@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antar Mukhopadhyaya</h1>
-<h3 align="center">A passionate full stack developer who loves to learn new thing.</h3>
+<h3 align="center">A passionate full-stack developer who loves learning new things.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antarmukhopadhyaya&label=Profile%20views&color=0e75b6&style=flat" alt="antarmukhopadhyaya" /> </p>
 
